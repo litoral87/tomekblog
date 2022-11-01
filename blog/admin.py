@@ -4,6 +4,6 @@ from django.contrib import admin
 #importujemy modele z klasy POST - którą sobie utworzyliśmy
 from .models import Post
 
-#rejestrujemy model z klasy post - uwaga te zmianysda
+#rejestrujemy model z klasy post - uwaga te zmianysdacx
 admin.site.register(Post)
 
