@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215638b0-42d5-46f1-a342-644c3aef77a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="215638b0-42d5-46f1-a342-644c3aef77a7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -123,23 +121,6 @@
               <item name="tomekDjango" type="b2602c69:ProjectViewProjectNode" />
               <item name="tomekDjango" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tomekDjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomekDjango" type="462c0819:PsiDirectoryNode" />
-              <item name="moj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tomekDjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomekDjango" type="462c0819:PsiDirectoryNode" />
-              <item name="moj" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tomekDjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomekDjango" type="462c0819:PsiDirectoryNode" />
-              <item name="moj" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tomekDjango" type="b2602c69:ProjectViewProjectNode" />
@@ -248,7 +229,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
